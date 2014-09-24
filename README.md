@@ -1,7 +1,7 @@
-clase-de-github - en la rama mejorandola 
+clase-de-github
 ===============
 
-Este es un ejemplo de Github para la comunidad de #mejorandola 
+Este es un ejemplo de Github
 
 Una vez instalas GIT, debes configurarlo:
 
